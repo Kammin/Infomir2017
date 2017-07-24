@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Infomir RSS </string>
+    <string name="subscribeLable">Subscribe to RSS </string>
+    <string name="subscribe">Subscribe</string>
+    <string name="cancel">Cancel</string>
+    <string name="enterRSS">Enter RSS URL</string>
+</resources>
